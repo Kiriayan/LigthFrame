@@ -2,7 +2,7 @@
 
 ## 🌐 Acceso en línea
 Puedes usar la aplicación directamente desde la web:  
-👉 **(https://lightframe.onrender.com/)**  
+👉 **(https://ligthframe.onrender.com/)**  
 
 ---
 
